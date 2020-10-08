@@ -1,3 +1,9 @@
+# arduino build
+*.bin
+*.hex
+*.eep
+*.elf
+
 # Prerequisites
 *.d
 
